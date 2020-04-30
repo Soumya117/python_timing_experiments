@@ -3,7 +3,10 @@ Small code snippets to test the timing of different implementations
 <br>
 <br>
 <br>
-Results for the sum experiment are as follows: 
+For the first experiment, I am trying to calculate the sum of the numbers in the range(10)
+using different kinds of implementations. So at the end of every method, my goal is to put 
+the list inside sum(list/generator) and let the sum handle it.
+
 <br>
 ('For loop took ', 4.291534423828125e-05) <br>
 ('List comprehension took ', 2.09808349609375e-05)<br>
