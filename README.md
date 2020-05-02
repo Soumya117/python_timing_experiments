@@ -14,3 +14,11 @@ the list inside sum(list/generator) and let the sum handle it.
 ('Generator directly inside sum took ', 1.3113021850585938e-05)<br>
 <br><br>
 So Generator directly inside the sum function is the fastest.
+
+<br>
+<br>
+<br>
+Timing experiment between if conditions in list comprehension vs lambda inside filter function
+They gave same results but list comprehension was almost 2x faster than filter function.
+Time taken by list comprehension: %s 1.7881393432617188e-05
+Time taken by filter: %s 3.3855438232421875e-05
