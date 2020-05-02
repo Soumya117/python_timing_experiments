@@ -13,7 +13,6 @@ the list inside sum(list/generator) and let the sum handle it.
 ('List comprehension took ', 2.09808349609375e-05)<br>
 ('List using generator took ', 2.288818359375e-05)<br>
 ('Generator directly inside sum took ', 1.3113021850585938e-05)<br>
-<br><br>
 So Generator directly inside the sum function is the fastest.
 
 <br>
