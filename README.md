@@ -18,7 +18,7 @@ So Generator directly inside the sum function is the fastest.
 <br>
 <br>
 ** Experiment 2 ** <br>
-Timing experiment between if conditions in list comprehension vs lambda inside filter function
-They gave same results but list comprehension was almost 2x faster than filter function.
-Time taken by list comprehension: %s 1.7881393432617188e-05
-Time taken by filter: %s 3.3855438232421875e-05
+Timing experiment between if conditions in list comprehension vs lambda inside filter function<br>
+They gave same results but list comprehension was almost 2x faster than filter function.<br>
+Time taken by list comprehension: %s 1.7881393432617188e-05<br>
+Time taken by filter: %s 3.3855438232421875e-05<br>
