@@ -8,7 +8,7 @@ start_list = time.time()
 bool_1 = 99 in list_ex
 end_list = time.time() - start_list
 print('bool_1: ', bool_1)
-print('set took: ', end_list)
+print('list took: ', end_list)
 
 
 
